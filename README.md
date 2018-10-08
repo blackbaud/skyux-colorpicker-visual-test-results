@@ -1,0 +1,1 @@
+# skyux-colorpicker-visual-test-results
